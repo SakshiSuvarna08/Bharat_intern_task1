@@ -1,7 +1,7 @@
-**Introduction**:
+<p style="font-size:24px; font-weight:bold; margin:0;">Introduction</p>
 Developed a personal portfolio website using HTML, CSS, and JavaScript to showcase projects, skills, and achievements. The website features a modern, professional design and serves as a platform for personal branding and career presentation.
 
-**How to Run the Project**:
+<p style="font-size:24px; font-weight:bold; margin:0;">How to run the project:</p>
 1. Download the Code
 Clone or download the repository to your local machine.
 
