@@ -1,14 +1,18 @@
-<p style="font-size:24px; font-weight:bold; margin:0;">Introduction</p>
-Developed a personal portfolio website using HTML, CSS, and JavaScript to showcase projects, skills, and achievements. The website features a modern, professional design and serves as a platform for personal branding and career presentation.
+## Introduction
 
-<p style="font-size:24px; font-weight:bold; margin:0;">How to run the project:</p>
-1. Download the Code
-Clone or download the repository to your local machine.
+Created and developed a personal portfolio website using HTML, CSS, and JavaScript to highlight projects, skills, and accomplishments. The site features a sleek and professional design, serving as a platform for personal branding and career representation.
 
-2. Open in Browser
-Double-click the .html file or open it directly in Google Chrome.
+## Running the Project
 
-3. Using Visual Studio Code:
-Launch VS Code and open the project folder.
-Install the Live Server extension if not already installed.
-Click on Go Live to view the project in your browser.
+To run these projects, follow these steps:
+
+1. *Download the Code*  
+   Clone or download the project files.
+
+2. *Open with Google Chrome*  
+   Simply open the `.html` file in a browser.
+
+3. *Using VS Code*
+   - Open the project folder in VS Code.  
+   - Install the *Live Server* extension.  
+   - Click on *Go Live* to launch the project in a browser.
